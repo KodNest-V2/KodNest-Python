@@ -1,2 +1,2 @@
 #write you code here
-this is my new python journey
+print("this is my new python journey")
